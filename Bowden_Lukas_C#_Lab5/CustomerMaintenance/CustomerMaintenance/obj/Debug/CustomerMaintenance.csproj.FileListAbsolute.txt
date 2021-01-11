@@ -1,0 +1,70 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Users\Mabdulla\Desktop\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\Users\Mabdulla\Desktop\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Mabdulla\Desktop\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Mabdulla\Desktop\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Mabdulla\Desktop\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\Mabdulla\Desktop\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Luke\Desktop\TRU School Work. Last Semester\COMP2210\Assignment 8\Bowden_Lukas_C#_Lab5\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
